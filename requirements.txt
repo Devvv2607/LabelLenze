@@ -1,0 +1,9 @@
+google-generativeai
+fastapi
+uvicorn
+gradio
+pytesseract
+Pillow
+opencv-python-headless
+python-dotenv
+dotenv
